@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I **love** getting nerdy with military history and more recently *OSINT*. These days, I am soaking up *as much information on networking as possible* as I aggressively pursue my goal of becoming a network engineer! 
