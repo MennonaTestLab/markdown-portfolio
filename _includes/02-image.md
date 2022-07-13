@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Photo of Zac Mennona](https://media-exp1.licdn.com/dms/image/C5603AQHJ9laLRO0jRg/profile-displayphoto-shrink_800_800/0/1657297847630?e=1663200000&v=beta&t=_nT-vmmpGCO1qZTaBKYSHbr_Y6_HTANDl19gI3UIwq0)
