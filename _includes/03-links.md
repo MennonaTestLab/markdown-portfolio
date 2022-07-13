@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+Follow me
+@ [Github](https://github.com/MennonaTestLab)
+@ [LinkedIn](https://www.linkedin.com/in/mennona/)
